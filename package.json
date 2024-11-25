@@ -1,0 +1,16 @@
+{
+  "name": "server-side",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hello",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.10.0",
+    "pdfkit": "^0.15.1"
+  }
+}
